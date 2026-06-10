@@ -1,55 +1,14 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=200§ion=header&text=Hi%2C%20I%27m%20Nihita!&fontSize=40&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&fontColor=fff)
 
+![Typing](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=1300&color=9B7FD4¢er=true&vCenter=true&width=640&lines=Turning+raw+data+into+real+decisions.;Data+Science+%C3%97+AI%2FML+%C3%97+Full-Stack.;Always+learning%2C+always+building.)
 
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-Hi, I'm Nihita Gupta 👋
-
-
-
-
-
-  I find patterns where others see noise
-
-
-
-
-
-
-
-  Data Science · AI/ML · Full-Stack · Currently on Day 6+ of GFG Summer SkillUp 2026
-
-
-
-
-
-
-
-
-  
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Nihita21&style=flat-square&color=7B68C8&label=profile+views)
 
 ---
 
 ## 🌸 About Me
+
+*I find patterns where others see noise*
 
 Data excites me the way a good mystery does —
 there's always something hidden in the numbers, waiting to be found.
@@ -61,7 +20,8 @@ My ideal project sits at the intersection of **insight and impact.**
 - 🌱 Currently on: **GFG Summer SkillUp 2026** (C++, Python, DSA — Day 6+)
 - 💬 Ask me about: Python, Data Science, and CSE coursework
 - ⚡ Outside of code: swimming laps, reading anything, and anime marathons
-- 📫 Reach me: [guptanihita@gmail.com](mailto:guptanihita@gmail.com)
+- 📫 Reach me: guptanihita@gmail.com
+
 
 ---
 
@@ -69,7 +29,7 @@ My ideal project sits at the intersection of **insight and impact.**
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AI Meeting Summarizer**](https://github.com/Nihita21) | Paste a transcript, get a clean summary — single-file MVP integrating the Anthropic API | HTML · Anthropic API |
+| [**AI Meeting Summarizer**](https://github.com/Nihita21) | Paste a transcript, get a clean summary — single-file MVP using Anthropic API | HTML · Anthropic API |
 | *(your next project)* | *(add yours here!)* | — |
 
 > ⭐ If anything here helped you, a star means a lot.
@@ -85,96 +45,57 @@ My ideal project sits at the intersection of **insight and impact.**
 - 📊 Data storytelling with Power BI and Matplotlib
 
 
-
-
-  
-
-
-
-
 ---
 
 ## 🧰 Tech Stack
 
-
-
-
-  
-
-
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-
-
-  "Data is not just numbers — it is evidence, story, and possibility."
-
-
-
-
-
-
-  
-
-
+> *"Data is not just numbers — it is evidence, story, and possibility."*
 
 
 ---
 
 ## 📊 GitHub Stats
 
-
-
-
-  
-  
-
-
-
+![Nihita's Stats](https://github-readme-stats.vercel.app/api?username=Nihita21&show_icons=true&hide_border=true&title_color=9B7FD4&icon_color=7B68C8&text_color=9B7FD4&bg_color=F5F0FF&rank_icon=github&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihita21&layout=compact&hide_border=true&title_color=9B7FD4&text_color=9B7FD4&bg_color=F5F0FF&include_all_commits=true&count_private=true)
 
 ---
 
 ## ⏳ Streak
 
-
-
-
-  
-
-
-
+![Streak](https://streak-stats.demolab.com?user=Nihita21&hide_border=true&background=F5F0FF&currStreakLabel=9B7FD4&ring=7B68C8&fire=9B7FD4&sideLabels=7B68C8)
 
 ---
 
 ## 🥇 Achievements
 
-
-
-
-  
-
-
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nihita21&theme=onestar&no-frame=true&row=1&margin-w=10)
 
 ---
 
 ## 📈 Contribution Graph
 
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nihita21&theme=react&area=true&color=9B7FD4&point=7B68C8&line=C4B0F0&bg_color=F5F0FF&hide_border=true)
 
 
 ---
@@ -185,44 +106,18 @@ I'm looking to work on Data Science, analytics, and AI/ML projects
 that turn interesting questions into working answers.
 If you're building something data-driven or just want to learn together — let's connect.
 
-
-
-
-  
-    
-  
-  
-    
-  
-
-
-
+[![Browse Repos](https://img.shields.io/badge/Browse%20My%20Repos-9B7FD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nihita21?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-7B68C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nihita%20Gupta)
 
 ---
 
 ## 🌐 Connect
 
+[![Email](https://img.shields.io/badge/Email-9B7FD4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptanihita@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B68C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nihita%20Gupta)
+[![Instagram](https://img.shields.io/badge/Instagram-C4A8E8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gnihitagupta)
+[![X](https://img.shields.io/badge/X-9B7FD4?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gnihitagupta)
 
+![Built between datasets and anime episodes 💜](https://img.shields.io/badge/Built%20between%20datasets%20and%20anime%20episodes%20💜-9B7FD4?style=for-the-badge&labelColor=F5F0FF&color=7B68C8)
 
-
-  
-  
-  
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=100§ion=footer)
