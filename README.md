@@ -25,12 +25,12 @@ My ideal project sits at the intersection of **insight and impact.**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Currently Building
 
-| Project | What it does | Stack |
+| Project | Status | What I learned |
 |---|---|---|
-| [**AI Meeting Summarizer**](https://github.com/Nihita21) | Paste a transcript, get a clean summary — single-file MVP using Anthropic API | HTML · Anthropic API |
-| *(your next project)* | *(add yours here!)* | — |
+| 🤖 AI Meeting Summarizer | ✅ MVP Done | Anthropic API, single-file HTML apps |
+| 📘 GFG Summer SkillUp 2026 | 🔄 Day 6+ | C++ pointers/references, Python basics |
 
 > ⭐ If anything here helped you, a star means a lot.
 
@@ -47,25 +47,36 @@ My ideal project sits at the intersection of **insight and impact.**
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
+**Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
+**AI / ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+
+**Backend & Databases**
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+
+**Tools & Design**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
 ---
 
@@ -84,19 +95,6 @@ My ideal project sits at the intersection of **insight and impact.**
 ## ⏳ Streak
 
 ![Streak](https://streak-stats.demolab.com?user=Nihita21&hide_border=true&background=F5F0FF&currStreakLabel=9B7FD4&ring=7B68C8&fire=9B7FD4&sideLabels=7B68C8)
-
----
-
-## 🥇 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nihita21&theme=onestar&no-frame=true&row=1&margin-w=10)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nihita21&theme=react&area=true&color=9B7FD4&point=7B68C8&line=C4B0F0&bg_color=F5F0FF&hide_border=true)
-
 
 ---
 
