@@ -6,7 +6,7 @@
 
 *"I find patterns where others see noise — every dataset has a story waiting to be discovered."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=7B68C8&center=true&vCenter=true&width=800&lines=Data+Science+Enthusiast;AI%2FML+Builder;Python+Developer;Turning+Data+into+Decisions;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=7B68C8&center=true&vCenter=true&width=800&lines=Data+Science+Enthusiast;AI%2FML+Builder;Python+Developer;Turning+Data+into+Decisions;Always+Learning+Something+New" />
 
 </div>
 
@@ -16,14 +16,43 @@
 
 I'm a Computer Science student passionate about building intelligent systems that solve real-world problems.
 
-My interests lie at the intersection of:
+My interests live at the intersection of:
 
-* 🤖 Artificial Intelligence
-* 📊 Data Science
-* 🧠 Machine Learning
-* 🌐 Full-Stack Development
+- 🤖 Artificial Intelligence
+- 📊 Data Science & Analytics
+- 🧠 Machine Learning
+- 🌐 Full-Stack Development
 
 I enjoy transforming raw data into meaningful insights and creating applications that bridge technology and practical impact.
+
+---
+
+## 🤣 The Dev Life (Too Real)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" alt="Works on my machine meme"/>
+<br><sub><b>Every data scientist shipping to prod 😅</b></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Me trying to explain ML"/>
+<br><sub><b>Me explaining neural nets at dinner 🧠</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Model training meme"/>
+<br><sub><b>My model training at 3am 😴</b></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="300" alt="It finally works"/>
+<br><sub><b>When the API call finally works 🎉</b></sub>
+</td>
+</tr>
+</table>
+</div>
+
 
 ---
 
@@ -35,43 +64,30 @@ I enjoy transforming raw data into meaningful insights and creating applications
 
 ### 🤖 AI Meeting Summarizer
 
-An AI-powered meeting assistant that converts lengthy meeting transcripts into structured outputs.
+An AI-powered meeting assistant that converts lengthy meeting transcripts into structured, actionable outputs — so people can focus on the conversation while AI handles the documentation.
 
 #### Features
 
-✅ Smart Summaries
-
-✅ Action Item Extraction
-
-✅ Decision Tracking
-
-✅ Ownership Assignment
+✅ Smart Summaries  
+✅ Action Item Extraction  
+✅ Decision Tracking  
+✅ Ownership Assignment  
 
 #### Tech Stack
 
-HTML • Anthropic API • Prompt Engineering
+`HTML` • `Anthropic API` • `Prompt Engineering`
 
-#### Why I Built It
-
-Manual note-taking is repetitive and time-consuming.
-
-The goal was simple:
-
-> Let people focus on conversations while AI handles documentation.
+> *Built this after my 4th back-to-back meeting where no one could agree on what was decided. The AI never gets confused.* 😭
 
 </td>
-
 <td width="40%">
 
 ### Project Impact
 
-📌 Faster Meeting Reviews
-
-📌 Reduced Manual Documentation
-
-📌 Improved Team Accountability
-
-📌 AI-Powered Workflow Automation
+📌 Faster Meeting Reviews  
+📌 Reduced Manual Documentation  
+📌 Improved Team Accountability  
+📌 AI-Powered Workflow Automation  
 
 </td>
 </tr>
@@ -79,22 +95,22 @@ The goal was simple:
 
 ---
 
-## 📌 Current Build Log
+## 📌 Current Build Log — June 2026
 
-### June 2026
+| Status | What I'm doing |
+|--------|---------------|
+| 🚀 | Building AI-powered applications |
+| 🤖 | Exploring Anthropic & OpenAI APIs |
+| 📊 | Working on Data Analytics projects |
+| 🐍 | Strengthening Python fundamentals |
+| 🌐 | Learning deployment workflows |
 
-* 🚀 Building AI-powered applications
-* 🤖 Exploring Anthropic & OpenAI APIs
-* 📊 Working on Data Analytics projects
-* 🐍 Strengthening Python fundamentals
-* 🌐 Learning deployment workflows
+### 🎯 Next Goals
 
-### Next Goals
-
-* Retrieval-Augmented Generation (RAG)
-* Vector Databases
-* Advanced Machine Learning
-* Production AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Advanced Machine Learning
+- Production AI Systems
 
 ---
 
@@ -133,12 +149,7 @@ The goal was simple:
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nihita21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihita21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nihita21&theme=tokyonight&hide_border=true"/>
 
@@ -153,46 +164,39 @@ The goal was simple:
 <td>
 
 ### 🤖 Artificial Intelligence
-
-* LLM Applications
-* Prompt Engineering
-* AI Agents
-* Intelligent Workflows
+- LLM Applications
+- Prompt Engineering
+- AI Agents
+- Intelligent Workflows
 
 </td>
-
 <td>
 
 ### 📊 Data Science
-
-* Data Analytics
-* Data Visualization
-* Predictive Modeling
-* Storytelling with Data
+- Data Analytics
+- Data Visualization
+- Predictive Modeling
+- Storytelling with Data
 
 </td>
 </tr>
-
 <tr>
 <td>
 
 ### 🐍 Python
-
-* Automation
-* APIs
-* Data Processing
-* Backend Development
+- Automation
+- APIs
+- Data Processing
+- Backend Development
 
 </td>
-
 <td>
 
 ### 🌐 Development
-
-* Flask Applications
-* Firebase Integration
-* Deployment Pipelines
-* Full-Stack Systems
+- Flask Applications
+- Firebase Integration
+- Deployment Pipelines
+- Full-Stack Systems
 
 </td>
 </tr>
@@ -204,12 +208,12 @@ The goal was simple:
 
 ```python
 while True:
-    learn()
-    build()
-    improve()
+    learn()    # never stops
+    build()    # something real
+    improve()  # always
 ```
 
-Because every project teaches something a course never will.
+> *Every project teaches something a course never will.*
 
 ---
 
@@ -220,11 +224,11 @@ Because every project teaches something a course never will.
 <a href="mailto:guptanihita@gmail.com">
 <img src="https://img.shields.io/badge/Email-7B68C8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-7B68C8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Nihita21">
 <img src="https://img.shields.io/badge/GitHub-7B68C8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
