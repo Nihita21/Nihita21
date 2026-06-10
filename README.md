@@ -146,16 +146,6 @@ The goal was simple:
 
 ---
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nihita21&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 Focus Areas
 
 <table>
