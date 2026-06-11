@@ -56,11 +56,11 @@ I enjoy transforming raw data into meaningful insights and creating applications
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="60%">
+
+
+
 
 ### 🤖 AI Meeting Summarizer
 
@@ -68,10 +68,10 @@ An AI-powered meeting assistant that converts lengthy meeting transcripts into s
 
 #### Features
 
-✅ Smart Summaries  
-✅ Action Item Extraction  
-✅ Decision Tracking  
-✅ Ownership Assignment  
+✅ Smart Summaries
+✅ Action Item Extraction
+✅ Decision Tracking
+✅ Ownership Assignment
 
 #### Tech Stack
 
@@ -79,19 +79,60 @@ An AI-powered meeting assistant that converts lengthy meeting transcripts into s
 
 > *Built this after my 4th back-to-back meeting where no one could agree on what was decided. The AI never gets confused.* 😭
 
-</td>
-<td width="40%">
+
+
 
 ### Project Impact
 
-📌 Faster Meeting Reviews  
-📌 Reduced Manual Documentation  
-📌 Improved Team Accountability  
-📌 AI-Powered Workflow Automation  
+📌 Faster Meeting Reviews
+📌 Reduced Manual Documentation
+📌 Improved Team Accountability
+📌 AI-Powered Workflow Automation
 
-</td>
-</tr>
-</table>
+
+
+
+
+---
+
+
+
+
+
+### 🏛️ Smart Campus Grievance System
+
+A full-cycle campus complaint management platform — students raise grievances, the system routes them to the right department, and admins track and resolve every issue end-to-end.
+
+#### Features
+
+✅ Student Complaint Submission
+✅ Smart Department Routing
+✅ Real-time Status Tracking
+✅ Admin Resolution Workflow
+
+#### Tech Stack
+
+`Python` • `Flask` • `HTML/CSS` • `MongoDB Atlas`
+
+> *Built because campus complaints used to disappear into email threads. Now every grievance has an owner and a deadline.* 📋
+
+[🔗 View Live](https://smart-campus-grievance-workflow.onrender.com/)
+
+
+
+
+### Project Impact
+
+📌 Transparent Complaint Tracking
+📌 Faster Issue Resolution
+📌 Reduced Administrative Overhead
+📌 Accountable Campus Workflow
+
+
+
+
+
+> ⭐ If anything here helped or inspired you, a star means a lot.
 
 ---
 
