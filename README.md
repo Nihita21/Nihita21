@@ -198,8 +198,14 @@ A full-cycle campus complaint management platform — students raise grievances,
 
 ---
 
-## 🎯 Focus Areas
+<table>
+<tr>
+<td valign="top" width="200">
+<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="180" alt="chibi mascot"/>
+</td>
+<td valign="top">
 
+## 🎯 Focus Areas
 <table>
 <tr>
 <td>
@@ -238,6 +244,10 @@ A full-cycle campus complaint management platform — students raise grievances,
 - Firebase Integration
 - Deployment Pipelines
 - Full-Stack Systems
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
