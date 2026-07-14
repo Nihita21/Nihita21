@@ -189,15 +189,15 @@ A full-cycle campus complaint management platform — students raise grievances,
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nihita21&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihita21&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nihita21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihita21&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nihita21&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
+<div align="center">
 <table>
 <tr>
 <td valign="middle">
@@ -212,10 +212,11 @@ A full-cycle campus complaint management platform — students raise grievances,
 
 </td>
 <td valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="280" alt="chibi"/>
+<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="400" alt="chibi"/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
