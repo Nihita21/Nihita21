@@ -199,58 +199,20 @@ A full-cycle campus complaint management platform — students raise grievances,
 ---
 
 <table>
-
+<tr>
+<td valign="middle">
 
 ## 🎯 Focus Areas
-<table>
-<tr>
-<td>
 
-### 🤖 Artificial Intelligence
-- LLM Applications
-- Prompt Engineering
-- AI Agents
-- Intelligent Workflows
+| 🤖 **Artificial Intelligence** | 📊 **Data Science** |
+|---|---|
+| • LLM Applications<br>• Prompt Engineering<br>• AI Agents<br>• Intelligent Workflows | • Data Analytics<br>• Data Visualization<br>• Predictive Modeling<br>• Storytelling with Data |
+| 🐍 **Python** | 🌐 **Development** |
+| • Automation<br>• APIs<br>• Data Processing<br>• Backend Development | • Flask Applications<br>• Firebase Integration<br>• Deployment Pipelines<br>• Full-Stack Systems |
 
 </td>
-<td>
-
-### 📊 Data Science
-- Data Analytics
-- Data Visualization
-- Predictive Modeling
-- Storytelling with Data
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🐍 Python
-- Automation
-- APIs
-- Data Processing
-- Backend Development
-
-</td>
-<td>
-
-### 🌐 Development
-- Flask Applications
-- Firebase Integration
-- Deployment Pipelines
-- Full-Stack Systems
-
-</td>
-</tr>
-</table>
-
-<tr>
-<td align="right" valign="middle" width="500">
-<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="500" alt="chibi mascot"/>
-</td>
-<td valign="top">
-
+<td valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="280" alt="chibi"/>
 </td>
 </tr>
 </table>
