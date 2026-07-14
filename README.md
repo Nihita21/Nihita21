@@ -247,7 +247,7 @@ A full-cycle campus complaint management platform — students raise grievances,
 
 <tr>
 <td align="center" valign="middle" width="500">
-<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="180" alt="chibi mascot"/>
+<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="500" alt="chibi mascot"/>
 </td>
 <td valign="top">
 
