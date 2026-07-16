@@ -157,31 +157,56 @@ A full-cycle campus complaint management platform — students raise grievances,
 
 ## 🛠 Tech Arsenal
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,java,c,html" />
-</p>
-
-### Data Science & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-`Scikit-Learn` • `Pandas` • `NumPy` • `Power BI` • `Matplotlib`
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,firebase,mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+<table>
+<tr>
+<td width="160">💻 <b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-D6EBF3?style=flat-square&logo=python&logoColor=447F98"/>
+<img src="https://img.shields.io/badge/R-447F98?style=flat-square&logo=r&logoColor=DADEE1"/>
+<img src="https://img.shields.io/badge/Java-B9D8E1?style=flat-square&logo=coffeescript&logoColor=629BB5"/>
+<img src="https://img.shields.io/badge/C-629BB5?style=flat-square&logo=c&logoColor=DADEE1"/>
+<img src="https://img.shields.io/badge/HTML5-DADEE1?style=flat-square&logo=html5&logoColor=447F98"/>
+</td>
+</tr>
+<tr>
+<td>🧠 <b>Data & ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/TensorFlow-629BB5?style=flat-square&logo=tensorflow&logoColor=DADEE1"/>
+<img src="https://img.shields.io/badge/PyTorch-D6EBF3?style=flat-square&logo=pytorch&logoColor=447F98"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-447F98?style=flat-square&logo=scikitlearn&logoColor=DADEE1"/>
+<img src="https://img.shields.io/badge/Pandas-DADEE1?style=flat-square&logo=pandas&logoColor=629BB5"/>
+<img src="https://img.shields.io/badge/NumPy-B9D8E1?style=flat-square&logo=numpy&logoColor=447F98"/>
+<img src="https://img.shields.io/badge/Power%20BI-D6EBF3?style=flat-square&logo=powerbi&logoColor=629BB5"/>
+<img src="https://img.shields.io/badge/Matplotlib-447F98?style=flat-square&logo=plotly&logoColor=DADEE1"/>
+</td>
+</tr>
+<tr>
+<td>🛢️ <b>Backend & Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/Flask-B9D8E1?style=flat-square&logo=flask&logoColor=447F98"/>
+<img src="https://img.shields.io/badge/Firebase-447F98?style=flat-square&logo=firebase&logoColor=DADEE1"/>
+<img src="https://img.shields.io/badge/MongoDB-D6EBF3?style=flat-square&logo=mongodb&logoColor=629BB5"/>
+<img src="https://img.shields.io/badge/MySQL-629BB5?style=flat-square&logo=mysql&logoColor=DADEE1"/>
+</td>
+</tr>
+<tr>
+<td>🛠️ <b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-DADEE1?style=flat-square&logo=git&logoColor=447F98"/>
+<img src="https://img.shields.io/badge/GitHub-447F98?style=flat-square&logo=github&logoColor=DADEE1"/>
+<img src="https://img.shields.io/badge/VS%20Code-629BB5?style=flat-square&logo=visualstudiocode&logoColor=D6EBF3"/>
+<img src="https://img.shields.io/badge/Figma-B9D8E1?style=flat-square&logo=figma&logoColor=447F98"/>
+</td>
+</tr>
+<tr>
+<td>✨ <b>Concepts</b></td>
+<td>
+<img src="https://img.shields.io/badge/Data%20Analysis-B9D8E1?style=flat-square&logoColor=447F98"/>
+<img src="https://img.shields.io/badge/AI%2FML-447F98?style=flat-square&logoColor=DADEE1"/>
+<img src="https://img.shields.io/badge/Statistics-D6EBF3?style=flat-square&logoColor=629BB5"/>
+</td>
+</tr>
+</table>
 
 ---
 
