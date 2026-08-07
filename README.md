@@ -136,10 +136,15 @@ A full-cycle campus complaint management platform — students raise grievances,
 
 ---
 
+<div align="center">
+<table>
+<tr>
+<td valign="middle">
+
 ## 📌 Current Build Log — June 2026
 
 | Status | What I'm doing |
-|--------|---------------|
+|--------|----------------|
 | 🚀 | Building AI-powered applications |
 | 🤖 | Exploring Anthropic & OpenAI APIs |
 | 📊 | Working on Data Analytics projects |
@@ -153,10 +158,13 @@ A full-cycle campus complaint management platform — students raise grievances,
 - Advanced Machine Learning
 - Production AI Systems
 
+</td>
 <td valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="400" alt="chibi"/>
+<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/download.png" width="500" alt="chibi"/>
 </td>
 </tr>
+</table>
+</div>
 
 ---
 
@@ -242,7 +250,7 @@ A full-cycle campus complaint management platform — students raise grievances,
 
 </td>
 <td valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="400" alt="chibi"/>
+<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="500" alt="chibi"/>
 </td>
 </tr>
 </table>
