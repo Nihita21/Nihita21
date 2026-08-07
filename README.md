@@ -153,6 +153,11 @@ A full-cycle campus complaint management platform — students raise grievances,
 - Advanced Machine Learning
 - Production AI Systems
 
+<td valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/Nihita21/Nihita21/main/image-Photoroom.png" width="400" alt="chibi"/>
+</td>
+</tr>
+
 ---
 
 ## 🛠 Tech Arsenal
